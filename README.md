@@ -2,8 +2,8 @@
   <img src="https://github.com/qingshan2048/img/blob/main/fusuo.png" width="248">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-BC TradeSystem-yellow" alt="Full Name"/>
-  <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-yellow' alt='Operating System'/>
+  <img src="https://img.shields.io/badge/Full Name-BC TradeSystem-orange" alt="Full Name"/>
+  <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-orange' alt='Operating System'/>
   <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-orange" alt="Miner Core"/>
 </p>
 
@@ -20,7 +20,7 @@
 ## 💡 软件展示
 
 <p align="center">
-<img src="https://github.com/qingshan2048/img/blob/main/bice_zhanshi.png" width="640">
+<img src="https://github.com/qingshan2048/img/blob/main/fusuo.png" width="640">
 </p>
 
 ## 📝 文件下载
@@ -69,4 +69,4 @@
 
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **关于作者**：如有其他业务可以通过下面的方式联系作者
-- <img src="https://github.com/qingshan2048/img/blob/main/weixin_bice.png" width="400">
+- <img src="https://github.com/qingshan2048/img/blob/main/fusuo.png" width="400">
