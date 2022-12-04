@@ -2,12 +2,12 @@
   <img src="https://github.com/qingshan2048/img/blob/main/fusuo.png" width="248">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-BC TradeSystem-yellow" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Full Name-FS File-yellow" alt="Full Name"/>
   <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-yellow' alt='Operating System'/>
   <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-yellow" alt="Miner Core"/>
 </p>
 
-# 🔥 币策  `对冲交易系统`
+# 🔥 付锁  `文件加密工具`
 
 - **适用场景**：通过在交易所对冲交易实现虚拟货币盈利
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
