@@ -69,4 +69,4 @@
 
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **关于作者**：如有其他业务可以通过下面的方式联系作者
-- <img src="https://github.com/qingshan2048/img/blob/main/fusuo_weixin.png" width="400">
+- <img src="https://github.com/qingshan2048/img/blob/main/fusuo_weixin.png" width="320">
