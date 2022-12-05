@@ -2,9 +2,9 @@
   <img src="https://github.com/qingshan2048/img/blob/main/fusuo.png" width="248">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-FS File-yellow" alt="Full Name"/>
-  <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-yellow' alt='Operating System'/>
-  <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-yellow" alt="Miner Core"/>
+  <img src="https://img.shields.io/badge/Full Name-FS File-yellow?logo=Windows Terminal" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-yellow?logo=Windows" alt="Operating System"/>
+  <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-yellow?logo=Bitwarden" alt="Miner Core"/>
 </p>
 
 # 🔥 付锁  `文件加密工具`
