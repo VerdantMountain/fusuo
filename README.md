@@ -56,6 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.z（即将发布）
+2022.12.04 完成了付锁的LOGO设计
 2022.12.02 项目命名为付锁
 2022.11.30 决定启动项目
 ```
